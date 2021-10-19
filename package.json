@@ -1,0 +1,20 @@
+{
+  "name": "@ngsctt/extensions",
+  "version": "0.1.0",
+  "description": "JavaScript extensions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngsctt/js-extensions.git"
+  },
+  "author": "Nathan Scott <dev@ngscott.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngsctt/js-extensions/issues"
+  },
+  "homepage": "https://github.com/ngsctt/js-extensions#readme"
+}
